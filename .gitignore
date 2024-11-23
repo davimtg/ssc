@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 data/features_not_infected_leve_BALF_SRR11181955.tsv
 data/features_not_infected_leve_BALF_SRR11181957.tsv
+data/server_results/
