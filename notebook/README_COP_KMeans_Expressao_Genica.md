@@ -1,7 +1,7 @@
 
 # Análise de Expressão Gênica - Conjunto GSE75688
 
-Este repositório contém um notebook (`COP_KMeans_Expressão_Gênica.ipynb`) que realiza a análise de expressão gênica do conjunto de dados GSE75688.
+Este repositório contém um notebook (`COP_KMeans_Expressao_Genica.ipynb`) que realiza a análise de expressão gênica do conjunto de dados GSE75688.
 
 ## Conteúdo do Notebook
 
@@ -30,7 +30,7 @@ Este repositório contém um notebook (`COP_KMeans_Expressão_Gênica.ipynb`) qu
    - Scripts necessários: `cop_kmeans.py`, `run_ckm.py`
 
 2. **Executando o Notebook**:
-   - Abra o `COP_KMeans_Expressão_Gênica.ipynb` em um ambiente Jupyter.
+   - Abra o `COP_KMeans_Expressao_Genica.ipynb` em um ambiente Jupyter.
    - Execute todas as células na ordem para reproduzir a análise completa.
 
 3. **Adicionando ou Ajustando Parâmetros**:
@@ -39,7 +39,9 @@ Este repositório contém um notebook (`COP_KMeans_Expressão_Gênica.ipynb`) qu
 
 ## Estrutura de Arquivos
 
-- `COP_KMeans_Expressão_Gênica.ipynb`: Notebook organizado com o pipeline de análise completo.
+- `COP_KMeans_Expressao_Genica.ipynb`: Notebook organizado com o pipeline de análise completo.
 - `README.md`: Este arquivo, contendo descrições e instruções de uso.
 - `cop_kmeans.py`: Implementação do algoritmo COP-KMeans.
 - `run_ckm.py`: Script auxiliar para executar o COP-KMeans com parâmetros configuráveis.
+
+
